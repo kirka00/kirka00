@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirka00)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Ask me 💬 
-- (Email):[mailto:kir.kobzev.ill@gmail.com]
+- [Email](mailto:kir.kobzev.ill@gmail.com)
 
 
 
