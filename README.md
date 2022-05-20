@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+Hey, I'm Kirill, Python Developer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-**kirka00/kirka00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-https://camo.githubusercontent.com/kirka00/kirka00/main
+## Ask me about 💬 
+- [Twitter]:(https://twitter.com/kir_kobzev)
+- [Email]:(mailto:kir.kobzev.ill@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
