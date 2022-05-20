@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **kirka00/kirka00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ https://camo.githubusercontent.com/86b46fa3ec6806d5caafda925e8ebacfdc7410f578f6b
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
