@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=kirka00&show_icons=true&theme=radical&title_color=blue)](https://github.com/kirka00)
 
 ## Ask me 💬 
-- https://kir.kobzev.ill@gmail.com
+- [Email](https://kir.kobzev.ill@gmail.com)
 
 
 
